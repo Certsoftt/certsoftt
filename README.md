@@ -3,7 +3,9 @@
 ![](assets/Bottom_up.svg)
 
 <!--   my-icons -->
-<p align="center"> ✨ <i>Tech Stack Highlights...</i> ✨ </p>
+<fieldset>
+  <p align="center"> ✨ <i>Tech Stack Highlights...</i> ✨ </p>
+</fieldset>
 <p align="center">
     <a href="https://github.com/BEPb/BEPb"><img src="https://img.shields.io/badge/status-updating-brightgreen.svg"></a>
     <a href="https://github.com/python/cpython"><img src="https://img.shields.io/badge/Python-3.12-FF1493.svg"></a>
