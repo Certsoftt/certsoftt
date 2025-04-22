@@ -105,14 +105,10 @@ graph TD;
 
 <p align="center"> 
 
-<img src="./src/badges_hackerrank.png" alt="Metrics" width="57%"> <img src="./src/hackerrank-logo.jpg" alt="Metrics" 
+<img src="./src/my_hackkerank_badge.png" alt="Metrics" width="57%"> <img src="./src/hackerrank-logo.jpg" alt="Metrics" 
 width="30%">
 
 </p>
-
-
-
-<img src="/github-metrics.svg" alt="Metrics" width="100%">
 
 
 
@@ -147,10 +143,8 @@ width="30%">
 ```
 
 
-![badges_37-46.png](src%2Fbadges_37-46.png)
-![badges_25-36.png](src%2Fbadges_25-36.png)
-![badges_13-24.png](src%2Fbadges_13-24.png)
-![badges_1-12.png](src%2Fbadges_1-12.png)
+![my_hackkerrank_cert.png](src%2Fmy_hackkerrank_cert.png)
+![javascript-essentials-1.png](src%2Fjavascript-essentials-1.png)
 
 
 #### Thanks for visiting :heart:
