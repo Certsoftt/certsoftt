@@ -67,7 +67,7 @@ Currently learning C++ (👨🏻‍💻🎯)
 
 
 **📫 How to Reach me:**
-<p align="left">
+<p align="center">
 <a href="https://linkedin.com/in/ubong-ukpe" target="blank"><img align="center" src="https://raw.githubusercontent.com/Certsoftt/certsoftt/main/assets/linkedin.svg" alt="BEPb" height="30" width="30" /></a>
 <a href="mailto:ukpeubong8573@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/Certsoftt/certsoftt/main/assets/gmail.svg" alt="Gmail" height="30" width="30" /></a>
 <a href="https://api.whatsapp.com/send?phone=+2348148106698" alt="Connect on Whatsapp"> <img src="https://img.shields.io/badge/WHATSAPP-%2325D366.svg?&style=for-the-badge&logo=whatsapp&logoColor=white" /> </a>
