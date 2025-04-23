@@ -42,10 +42,7 @@ Currently learning C++ (👨🏻‍💻🎯)
 ###
 
 <!-- dark snake -->
-![](https://raw.githubusercontent.com/BEPb/BEPb/output/github-contribution-grid-snake-dark.svg)
-
-<!--   profile-green-animate -->
-![](./profile-3d-contrib/profile-green-animate.svg)
+![](https://raw.githubusercontent.com/Certsoftt/certsoftt/output/github-contribution-grid-snake-dark.svg)
 
 
  <!--   my-skils -->
@@ -64,21 +61,15 @@ Currently learning C++ (👨🏻‍💻🎯)
 ### 📈 GitHub Activity Graph:
 
 <!--   green snake -->
-![](https://raw.githubusercontent.com/Certsoftt/certsoftt/output/github-contribution-grid-snake.svg)
+![](https://raw.githubusercontent.com/Certsoftt/certsoftt/output/github-contribution-grid-snake-dark.svg)
 <!--   stats + languages -->
 
-
-<!-- dark snake -->
-![BEPb's github activity graph](https://raw.githubusercontent.com/BEPb/BEPb/output/github-contribution-grid-snake-dark.svg)
-
-<!--   profile-green-animate -->
-![](./profile-3d-contrib/profile-green-animate.svg)
 
 
 **📫 How to Reach me:**
 <p align="left">
-<a href="https://linkedin.com/in/ubong-ukpe" target="blank"><img align="center" src="https://raw.githubusercontent.com/Certsoftt/certsoftt/master/assets/linkedin.svg" alt="BEPb" height="30" width="30" /></a>
-<a href="mailto:ukpeubong8573@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/Certsoftt/certsoftt/master/assets/gmail.svg" alt="Gmail" height="30" width="30" /></a>
+<a href="https://linkedin.com/in/ubong-ukpe" target="blank"><img align="center" src="https://raw.githubusercontent.com/Certsoftt/certsoftt/main/assets/linkedin.svg" alt="BEPb" height="30" width="30" /></a>
+<a href="mailto:ukpeubong8573@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/Certsoftt/certsoftt/main/assets/gmail.svg" alt="Gmail" height="30" width="30" /></a>
 <a href="https://api.whatsapp.com/send?phone=+2348148106698" alt="Connect on Whatsapp"> <img src="https://img.shields.io/badge/WHATSAPP-%2325D366.svg?&style=for-the-badge&logo=whatsapp&logoColor=white" /> </a>
 </p>
 
@@ -107,44 +98,11 @@ graph TD;
 
 <img src="./src/my_hackkerank_badge.png" alt="Metrics" width="57%"> <img src="./src/hackerrank-logo.jpg" alt="Metrics" 
 width="30%">
-
+<img src="./src/my_hackkerrank_cert.png" alt="Metrics" width="57%"> <img src="./src/hackerrank.svg" alt="Metrics" 
+width="30%">
+<img src="./src/javascript-essentials-1.png" alt="Metrics" width="57%"> <img src="./src/hackerrank-logo.jpg" alt="Metrics" 
+width="30%">
 </p>
-
-
-
-
-
-
-<!-- Uyo - My Home-->
-  
- ```geojson
-{
- "type": "FeatureCollection",
- "features": [
-   {
-     "type": "Feature",
-     "id": 1,
-     "properties": {
-       "ID": 0
-     },
-     "geometry": {
-       "type": "Polygon",
-       "coordinates": [
-         [
-             [379,109.95],
-             [557,072.27]
-         ]
-       ]
-     }
-   }
- ]
-}
-
-```
-
-
-![my_hackkerrank_cert.png](src%2Fmy_hackkerrank_cert.png)
-![javascript-essentials-1.png](src%2Fjavascript-essentials-1.png)
 
 
 #### Thanks for visiting :heart:
@@ -163,16 +121,10 @@ counting of visitors to this page in this section started from June 12, 2022
 
 </p>
 
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) 
 ---
   *If you liked my profile, you can Star ⭐ the repo and if you want to use this template you can Fork it and can use.* 
----
-Would you like to meet me?
-
-If you want to contribute to any of my repositories, feel free to submit PRs, issues and email me. 
-Pick a slot if you'd like to meet me and chat about proposals and ideas - but make sure to describe the agenda
-
----
-  *I use an automatic subscription control system. Thus, everyone who subscribes to me, I will subscribe to those and I will respond, and vice versa, I will remove all those who unsubscribe from me from among those who should be followed.* 
 ---
 
 ![](assets/Bottom_down.svg)
