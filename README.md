@@ -14,6 +14,12 @@
   <p align="center"> ✨ <i>Tech Stack Highlights...</i> ✨ </p>
 </fieldset>
 <p align="center">
+<img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65" height="65" />
+<img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" />
+<img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" />
+<img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="65" height="65" />
+</p>
+<p align="center">
     <a href="https://github.com/Certsoftt/certsoftt"><img src="https://img.shields.io/badge/status-updating-brightgreen.svg"></a>
     <a href="https://github.com/facebook/create-react-app"><img src="https://img.shields.io/badge/React-18-blue.svg?logo=react"></a>
     <a href="https://github.com/Certsoftt/certsoftt/graphs/contributors"><img src="https://img.shields.io/github/contributors/certsoftt/certsoftt?color=blue"></a>
@@ -24,11 +30,11 @@
 
 <!--   my-header-img -->
 ![](./src/header_.png)
-<a href="https://en.wikipedia.org/wiki/Brendan_Eich"><img src="./src/js_logo.webp" align="right" height="48" width="48" ></a>
+<a href="https://en.wikipedia.org/wiki/Brendan_Eich"><img src="https://techstack-generator.vercel.app/js-icon.svg" align="right" height="48" width="48" ></a>
 
 # 💫 About Me:
 I have competency with ReactJS and Laravel. </br>
-Currently learning C++ (👨🏻‍💻🎯)
+Currently learning <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="65" height="65" /> (👨🏻‍💻🎯)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=certsoftt&show_icons=true&theme=radical&include_all_commits=true)<br/>
